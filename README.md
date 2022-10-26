@@ -7,7 +7,7 @@ SQL projects : Data cleaning and manipulation using SQL on Google BigQuery
 # Project 1: Flight Satisfaction Analysis
 * This projectgoes with:
   1. [Final SQL Script on Google Big Query](https://console.cloud.google.com/bigquery?sq=76270021988:eaac8063c4b741c18028dcaef06c523b) includes:
-      1. Exploration Data Analysis: Chech the sales by years, months, product line, revenue by deal sizes
+      1. Exploration Data Analysis: Chech the sales by years, months, product lines, revenue by deal sizes
       2. Data EDA: Visualizations of variables distribution, correlation matrix
       3. Prepare data for RFM Customer Segmentation: divide into differange range of Recency, Frequency and Value of Orders
       4. Giving the score of Recency, Frequency and Monetary value for each customer in the scale 1 to 5
